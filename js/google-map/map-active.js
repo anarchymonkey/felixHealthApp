@@ -1,5 +1,5 @@
 var map;
-var latlng = new google.maps.LatLng(51.5074, 0.1278);
+var latlng = new google.maps.LatLng(22.572645,88.363892);
 var stylez = [{
     featureType: "all",
     elementType: "all",
@@ -19,7 +19,7 @@ var mapOptions = {
 };
 map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
 var geocoder_map = new google.maps.Geocoder();
-var address = 'London';
+var address = 'Kolkata';
 geocoder_map.geocode({
     'address': address
 }, function (results, status) {
