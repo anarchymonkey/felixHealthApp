@@ -313,7 +313,7 @@ li {
     font-size: 18px;
     right: 0;
     width: 40px;
-    background-color: rgb(0,243,189);
+    background-color: rgb(20,138,119);
     color: #fff;
     text-align: center;
     height: 40px;
@@ -374,7 +374,7 @@ li {
 .dorne-btn:hover,
 .dorne-btn:focus {
     color: #fff;
-    background-color: rgb(0,243,189);;
+    background-color: rgb(20,138,119);
     font-weight: 600;
 }
 
@@ -385,7 +385,7 @@ li {
     position: fixed;
     z-index: 99999;
     height: 120px;
-    background-color: rgb(0,243,189);;
+    background-color: rgb(20,138,119);
     top: -200px;
     left: 0;
     -webkit-transition-duration: 500ms;
@@ -515,7 +515,7 @@ li {
 }
 
 .dropdown-item:hover {
-    background-color: rgb(0,243,189);
+    background-color: rgb(20,138,119);
     color: #fff;
 }
 
@@ -560,7 +560,7 @@ li {
     font-size: 12px;
     font-weight: 700;
     color: #fff;
-    background-color: rgba(0,243,189,1);
+    background-color: rgb(20,138,119);
     text-transform: uppercase;
     min-width: 100px;
     height: 44px;
@@ -571,13 +571,13 @@ li {
 
 .hero-search-form .nav-tabs .nav-link.active {
     color: #fff;
-    background-color:  rgba(0,243,189,1);
+    background-color:  rgb(20,138,119);
     border-color: transparent;
 }
 
 .hero-search-form .tab-content .tab-pane {
     padding: 35px;
-    background-color:  rgba(0,243,189,0.65);
+    background-color:  rgba(20,138,119,0.65);
 }
 
 .hero-search-form .tab-content .tab-pane h6 {
@@ -651,7 +651,7 @@ li {
 }
 
 .single-catagory-area {
-    background-color: rgb(0,243,189);
+    background-color: rgb(20,138,119);
     text-align: center;
     padding: 60px 15px;
     -webkit-transition-duration: 500ms;
