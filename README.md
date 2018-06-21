@@ -9,7 +9,7 @@ Feel Free To Fork And Edit , Contribute to the open source community
 
 
 
-Devolopers:
+Developers:
 
-@devsks --> **Santosh Kumar Shaw**
+@devsks --> **Santosh Kumar Shaw** <br /> <br />
 @ ['Enter Username here'] --> ['Full Name Here']
